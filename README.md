@@ -1,2 +1,2 @@
 # my-golang-playground
-A repo containing go snippets
+A repo of golang practice programs and snippets
