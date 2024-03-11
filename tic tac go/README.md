@@ -1,6 +1,7 @@
 <h1> Tic Tac Toe game with Golang </h1>
-<h4>Since i am learning Golang, this is my first project, tic tac toe that runs in the command line. <br>
-Known bug: It prints x as the winner even if o wins. Please help with the fix</h4>
+<h4>Since i am learning Golang, this is my first project, tic tac toe that runs in the command line. <br></h4>
+
+~~Known bug: It prints x as the winner even if o wins. Please help with the fix~~
 
 <h2>Credits</h2>
 https://github.com/sts10/tic-tac-go <br>
