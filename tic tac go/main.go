@@ -65,11 +65,11 @@ func CheckForWinner(b [9]string, n int) (bool, string) {
 	}
 	//diagonal 1 test
 	if b[0] == b[4] && b[4] == b[8] && b[0] != "" {
-		return true, b[i]
+		return true, b[0]
 	}
 	//diagonal 2 test
 	if b[2] == b[4] && b[4] == b[6] && b[2] != "" {
-		return true, b[i]
+		return true, b[2]
 	}
 	if n == 9 {
 		return true, ""
