@@ -106,8 +106,4 @@ func PrintBoard(b [9]string) {
 }
 ```
 
-## Conclusion
 
-In this article, we have walked through the process of building a simple Tic Tac Toe game in the Go programming language. We covered the setup of the game, the game logic, user interaction, and displaying the board. By understanding this code, you now have a foundation to build upon and expand the game further. Have fun exploring different strategies and enhancing the game with additional features!
-
-Remember, programming is problen solving and a creative process, and there are endless possibilities for customization and improvement. So go ahead and challenge yourself to make the game even more exciting and engaging.
