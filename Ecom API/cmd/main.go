@@ -5,9 +5,10 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/chaba-victor/lets-go/Ecom-API/api"
-	"github.com/chaba-victor/lets-go/Ecom-API/configs"
-	"github.com/chaba-victor/lets-go/Ecom-API/db"
+	"/api"
+	"/configs"
+	"/db"
+
 	"github.com/go-sql-driver/mysql"
 )
 
